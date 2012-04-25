@@ -10,7 +10,7 @@
   <head>
     <title></title>
     <script type="text/javascript">
-        var xhr1, xhr2, xhr3;
+        var xhr1, xhr2, xhr3, xhr4, xhr5;
 
 
         function start() {
